@@ -7656,7 +7656,7 @@ main {
     margin-bottom: 24px; }
     main .time-line-item {
       line-height: 0;
-      padding-left: 40px;
+      padding-left: 100px;
       padding-bottom: 24px;
       position: relative; }
       main .time-line-item::before {
